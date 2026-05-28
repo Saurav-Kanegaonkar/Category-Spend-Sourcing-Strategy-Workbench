@@ -1,0 +1,11 @@
+category_id,category_name,priority,action,owner,business_owner,expected_value,due_window,evidence
+CAT-004,Diesel Fuel and Lubricants,1,Launch RFI or sourcing wave,Category manager,Transportation,15521684.62,Next 30 days,"14.7% off-contract, 30.6% market pressure"
+CAT-001,Rail and Track Materials,2,Launch RFI or sourcing wave,Category manager,Engineering,14826540.23,Next 30 days,"20.6% off-contract, 14.2% market pressure"
+CAT-007,Engineering Contractors,3,Launch RFI or sourcing wave,Category manager,Engineering,17481016.65,Next 30 days,"45.2% off-contract, 9.1% market pressure"
+CAT-003,Signal and Communications,4,Review off-contract requester pattern,Procurement operations,Network operations,8385923.55,Next 30 days,"30.1% off-contract, 3.6% market pressure"
+CAT-006,Intermodal Terminal Services,5,Review off-contract requester pattern,Procurement operations,Intermodal,13253957.14,This quarter,"36.9% off-contract, 0.9% market pressure"
+CAT-002,Locomotive Components,6,Review off-contract requester pattern,Procurement operations,Mechanical,14329463.69,This quarter,"26.1% off-contract, -2.3% market pressure"
+CAT-010,Professional Services,7,Review off-contract requester pattern,Procurement operations,Finance,8285980.63,This quarter,"55.9% off-contract, 7.1% market pressure"
+CAT-009,Facilities Maintenance,8,Review off-contract requester pattern,Procurement operations,Facilities,6944024.22,This quarter,"48.7% off-contract, 3.9% market pressure"
+CAT-005,MRO Tools and Shop Supplies,9,Review off-contract requester pattern,Procurement operations,Mechanical,8592589.81,This quarter,"44.1% off-contract, -1.7% market pressure"
+CAT-008,IT and Network Services,10,Review off-contract requester pattern,Procurement operations,Information technology,6312108.14,This quarter,"28.7% off-contract, 1.3% market pressure"

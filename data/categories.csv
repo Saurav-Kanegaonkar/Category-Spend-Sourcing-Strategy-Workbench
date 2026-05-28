@@ -1,0 +1,11 @@
+category_id,category_name,category_family,category_manager,annual_baseline_spend,contract_coverage_pct,operational_criticality,incumbent_supplier_count,strategic_tier,primary_market_index,should_cost_gap_pct,business_owner,baseline_status
+CAT-001,Rail and Track Materials,Engineering materials,Track sourcing,184000000,0.83,96,5,Strategic,Steel mill products,0.064,Engineering,Current
+CAT-002,Locomotive Components,Mechanical parts,Mechanical sourcing,142000000,0.76,93,4,Strategic,Industrial machinery,0.082,Mechanical,Current
+CAT-003,Signal and Communications,Technology equipment,Technology sourcing,78000000,0.71,91,6,Strategic,Electronic components,0.071,Network operations,Refresh due
+CAT-004,Diesel Fuel and Lubricants,Energy,Fuel sourcing,312000000,0.88,99,7,Strategic,Diesel fuel,0.035,Transportation,Needs BU signoff
+CAT-005,MRO Tools and Shop Supplies,Indirect materials,MRO sourcing,54000000,0.59,72,18,Leverage,Industrial supplies,0.112,Mechanical,Refresh due
+CAT-006,Intermodal Terminal Services,Operations services,Terminal sourcing,96000000,0.66,87,9,Bottleneck,Freight labor,0.093,Intermodal,Current
+CAT-007,Engineering Contractors,Field services,Engineering sourcing,121000000,0.62,89,12,Strategic,Construction labor,0.088,Engineering,Current
+CAT-008,IT and Network Services,Technology services,IT sourcing,68000000,0.73,79,10,Leverage,Cloud services,0.059,Information technology,Needs BU signoff
+CAT-009,Facilities Maintenance,Corporate services,Facilities sourcing,37000000,0.53,58,22,Routine,Facilities services,0.126,Facilities,Current
+CAT-010,Professional Services,Corporate services,Services sourcing,42000000,0.48,46,26,Routine,Professional labor,0.137,Finance,Needs BU signoff

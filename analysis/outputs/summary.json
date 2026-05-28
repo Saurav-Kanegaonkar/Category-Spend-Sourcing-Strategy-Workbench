@@ -1,0 +1,16 @@
+{
+  "generated_on": "2026-05-27",
+  "seed": 74219,
+  "category_count": 10,
+  "supplier_count": 119,
+  "spend_line_count": 12339,
+  "scorecard_row_count": 2142,
+  "rfp_bid_count": 29,
+  "modeled_spend": 2079713349.09,
+  "off_contract_spend": 590147307.71,
+  "off_contract_pct": 0.2838,
+  "savings_potential": 113933288.68,
+  "top_category": "Diesel Fuel and Lubricants",
+  "top_recommended_move": "Advance sourcing strategy",
+  "top_supplier_risk": "Indirect Supplier 5"
+}

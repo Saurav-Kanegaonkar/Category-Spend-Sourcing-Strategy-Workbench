@@ -1,0 +1,30 @@
+event_id,category_id,category_name,supplier_id,supplier_name,baseline_unit_cost,bid_unit_cost,annual_volume,transition_cost,risk_adjusted_tco,commercial_score,technical_score,risk_score,implementation_score,weighted_evaluation_score,negotiation_target_pct,recommended_position
+RFP-002,CAT-002,Locomotive Components,SUP-006,Mechanical Supplier 1,347.92,345.74,59567,323560.3,21525803.03,88.1,74.9,66.2,90.6,80.5,0.0473,Negotiate
+RFP-002,CAT-002,Locomotive Components,SUP-007,Mechanical Supplier 2,347.92,356.76,23484,475582.26,9048840.54,68.3,79.8,89.2,68.2,75.8,0.02,Negotiate
+RFP-002,CAT-002,Locomotive Components,SUP-008,Mechanical Supplier 3,347.92,312.32,33064,246186.05,11219028.34,75.6,59.0,64.1,82.4,70.1,0.1433,Hold
+RFP-002,CAT-002,Locomotive Components,SUP-009,Mechanical Supplier 4,347.92,372.9,67777,1309268.08,26982828.11,69.6,81.1,77.8,84.6,77.4,0.02,Negotiate
+RFP-003,CAT-003,Signal and Communications,SUP-010,Technology Supplier 1,291.41,266.08,55942,687408.69,15979303.13,61.8,90.8,77.4,81.4,76.8,0.1225,Negotiate
+RFP-003,CAT-003,Signal and Communications,SUP-011,Technology Supplier 2,291.41,308.88,61436,334222.55,19584363.77,62.9,84.2,84.8,88.1,78.3,0.02,Negotiate
+RFP-003,CAT-003,Signal and Communications,SUP-012,Technology Supplier 3,291.41,268.75,45011,478883.09,13224826.9,71.3,60.5,63.9,94.8,71.6,0.1133,Hold
+RFP-003,CAT-003,Signal and Communications,SUP-013,Technology Supplier 4,291.41,291.95,22940,1175804.12,8062772.63,73.1,76.1,89.5,70.6,76.8,0.0337,Negotiate
+RFP-003,CAT-003,Signal and Communications,SUP-014,Technology Supplier 5,291.41,269.7,22023,397718.94,6471824.8,76.7,93.9,92.5,61.2,81.6,0.11,Negotiate
+RFP-005,CAT-005,MRO Tools and Shop Supplies,SUP-023,Indirect Supplier 1,161.88,140.89,33974,631922.18,5512604.22,62.3,86.0,94.8,84.2,79.9,0.1857,Negotiate
+RFP-005,CAT-005,MRO Tools and Shop Supplies,SUP-024,Indirect Supplier 2,161.88,155.24,35276,614308.27,6375229.35,71.4,78.5,84.2,79.3,77.6,0.097,Negotiate
+RFP-005,CAT-005,MRO Tools and Shop Supplies,SUP-025,Indirect Supplier 3,161.88,165.95,30669,489909.73,6061926.47,71.0,91.3,73.2,75.7,77.9,0.0309,Negotiate
+RFP-005,CAT-005,MRO Tools and Shop Supplies,SUP-026,Indirect Supplier 4,161.88,160.61,74037,806435.51,12733257.21,81.0,77.7,98,75.3,82.6,0.0639,Shortlist
+RFP-005,CAT-005,MRO Tools and Shop Supplies,SUP-027,Indirect Supplier 5,161.88,160.42,40590,408762.69,7702493.04,72.2,75.5,56.5,63.3,68.0,0.065,Hold
+RFP-006,CAT-006,Intermodal Terminal Services,SUP-041,Operations Supplier 1,366.54,375.76,46934,402978.72,18395191.11,73.2,86.5,80.2,94.8,82.6,0.0213,Shortlist
+RFP-006,CAT-006,Intermodal Terminal Services,SUP-042,Operations Supplier 2,366.54,386.58,60944,639689.83,24546563.18,72.9,98,80.7,72.8,81.3,0.02,Negotiate
+RFP-006,CAT-006,Intermodal Terminal Services,SUP-043,Operations Supplier 3,366.54,377.44,47206,207869.09,18073460.34,84.8,90.6,97.3,96,91.2,0.02,Shortlist
+RFP-006,CAT-006,Intermodal Terminal Services,SUP-044,Operations Supplier 4,366.54,348.05,51009,160298.8,18305148.37,89.3,71.3,78.3,73.5,78.9,0.0969,Negotiate
+RFP-006,CAT-006,Intermodal Terminal Services,SUP-045,Operations Supplier 5,366.54,395.05,43051,1253514.69,18644650.3,78.1,70.4,78.7,83.6,77.2,0.02,Negotiate
+RFP-007,CAT-007,Engineering Contractors,SUP-050,Field Supplier 1,464.45,483.74,49457,127933.27,24221498.04,83.0,90.2,90.6,91.9,88.3,0.02,Shortlist
+RFP-007,CAT-007,Engineering Contractors,SUP-051,Field Supplier 2,464.45,411.1,72022,696190.11,30403437.44,81.1,81.8,94.5,74.0,82.7,0.1589,Shortlist
+RFP-007,CAT-007,Engineering Contractors,SUP-052,Field Supplier 3,464.45,484.71,60778,521218.83,30225931.17,78.4,74.0,86.4,71.9,77.6,0.02,Negotiate
+RFP-007,CAT-007,Engineering Contractors,SUP-053,Field Supplier 4,464.45,498.25,37009,536100.42,19551990.22,87.2,66.9,68.0,67.8,73.8,0.02,Hold
+RFP-007,CAT-007,Engineering Contractors,SUP-054,Field Supplier 5,464.45,480.83,62492,358200.0,30776257.29,74.6,97.2,79.5,73.9,81.6,0.02,Negotiate
+RFP-010,CAT-010,Professional Services,SUP-094,Corporate Supplier 1,536.84,531.08,50353,589573.05,27756508.77,60.0,64.6,76.4,87.8,70.2,0.0792,Hold
+RFP-010,CAT-010,Professional Services,SUP-095,Corporate Supplier 2,536.84,567.54,34678,519611.69,20897334.63,67.1,68.1,61.3,85.5,69.8,0.02,Hold
+RFP-010,CAT-010,Professional Services,SUP-096,Corporate Supplier 3,536.84,534.75,39719,389386.99,22266477.55,74.8,66.6,64.6,74.6,70.4,0.0724,Hold
+RFP-010,CAT-010,Professional Services,SUP-097,Corporate Supplier 4,536.84,478.27,50732,705315.87,25289141.21,78.7,70.4,82.2,81.2,77.7,0.1776,Negotiate
+RFP-010,CAT-010,Professional Services,SUP-098,Corporate Supplier 5,536.84,539.58,25402,1199490.87,15403151.44,72.2,85.5,72.4,74.7,76.3,0.0634,Negotiate

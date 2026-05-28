@@ -1,0 +1,120 @@
+supplier_id,supplier_name,category_id,category_name,supplier_type,diversity_status,financial_risk,latest_service_score,trailing_service_score,trailing_defect_rate_pct,six_month_safety_incidents,supplier_risk_score,sla_status,follow_up
+SUP-027,Indirect Supplier 5,CAT-005,MRO Tools and Shop Supplies,Distributor,Small business,High,84.3,85.8,2.71,2,30.3,Watch,Executive QBR
+SUP-008,Mechanical Supplier 3,CAT-002,Locomotive Components,Distributor,Diverse,Low,85.7,84.6,3.29,1,27.1,Watch,Executive QBR
+SUP-112,Corporate Supplier 19,CAT-010,Professional Services,Distributor,Diverse,Low,80.0,84.3,3.21,1,27.0,Watch,Executive QBR
+SUP-021,Energy Supplier 6,CAT-004,Diesel Fuel and Lubricants,Regional specialist,Not classified,High,84.4,84.2,2.62,1,24.7,Watch,Executive QBR
+SUP-029,Indirect Supplier 7,CAT-005,MRO Tools and Shop Supplies,Incumbent,Non-diverse,Medium,87.2,87.4,2.35,1,21.9,Meets SLA,Recovery check
+SUP-064,Technology Supplier 3,CAT-008,IT and Network Services,Regional specialist,Non-diverse,Low,82.9,84.7,3.48,0,21.9,Watch,Recovery check
+SUP-092,Corporate Supplier 21,CAT-009,Facilities Maintenance,Distributor,Diverse,Medium,87.0,83.2,3.29,0,21.9,Meets SLA,Recovery check
+SUP-058,Field Supplier 9,CAT-007,Engineering Contractors,Distributor,Small business,Low,90.7,87.9,2.22,1,21.2,Meets SLA,Recovery check
+SUP-040,Indirect Supplier 18,CAT-005,MRO Tools and Shop Supplies,Incumbent,Not classified,High,88.7,87.8,2.12,1,20.8,Meets SLA,Recovery check
+SUP-118,Corporate Supplier 25,CAT-010,Professional Services,Distributor,Not classified,Low,89.4,88.0,1.99,1,20.2,Meets SLA,Recovery check
+SUP-019,Energy Supplier 4,CAT-004,Diesel Fuel and Lubricants,Incumbent,Small business,Low,93.1,88.4,1.99,1,20.0,Meets SLA,Recovery check
+SUP-068,Technology Supplier 7,CAT-008,IT and Network Services,Regional specialist,Not classified,Low,85.4,84.7,3.01,0,20.0,Watch,Recovery check
+SUP-020,Energy Supplier 5,CAT-004,Diesel Fuel and Lubricants,Challenger,Diverse,Medium,81.7,84.5,2.88,0,19.6,Watch,Recovery check
+SUP-047,Operations Supplier 7,CAT-006,Intermodal Terminal Services,Regional specialist,Not classified,Low,86.6,85.5,3.02,0,19.6,Meets SLA,Recovery check
+SUP-032,Indirect Supplier 10,CAT-005,MRO Tools and Shop Supplies,Challenger,Small business,Medium,82.6,85.8,3.0,0,19.4,Watch,Recovery check
+SUP-001,Engineering Supplier 1,CAT-001,Rail and Track Materials,Regional specialist,Diverse,Medium,80.3,84.4,2.79,0,19.3,Watch,Recovery check
+SUP-048,Operations Supplier 8,CAT-006,Intermodal Terminal Services,Incumbent,Diverse,Medium,88.5,84.4,2.67,0,18.8,Meets SLA,Recovery check
+SUP-094,Corporate Supplier 1,CAT-010,Professional Services,Incumbent,Diverse,Low,86.7,86.5,2.94,0,18.8,Meets SLA,Recovery check
+SUP-119,Corporate Supplier 26,CAT-010,Professional Services,Incumbent,Small business,Low,91.1,86.0,2.86,0,18.7,Meets SLA,Recovery check
+SUP-052,Field Supplier 3,CAT-007,Engineering Contractors,Distributor,Non-diverse,Low,85.1,86.0,2.78,0,18.4,Watch,Recovery check
+SUP-097,Corporate Supplier 4,CAT-010,Professional Services,Regional specialist,Diverse,High,85.5,85.9,2.64,0,17.9,Watch,Recovery check
+SUP-102,Corporate Supplier 9,CAT-010,Professional Services,Challenger,Non-diverse,Medium,81.6,86.5,2.7,0,17.8,Watch,Recovery check
+SUP-004,Engineering Supplier 4,CAT-001,Rail and Track Materials,Regional specialist,Not classified,Low,92.6,86.7,2.7,0,17.7,Meets SLA,Recovery check
+SUP-095,Corporate Supplier 2,CAT-010,Professional Services,Regional specialist,Small business,High,86.7,88.1,2.85,0,17.6,Meets SLA,Recovery check
+SUP-072,Corporate Supplier 1,CAT-009,Facilities Maintenance,Challenger,Not classified,Medium,87.4,87.6,2.77,0,17.5,Meets SLA,Recovery check
+SUP-073,Corporate Supplier 2,CAT-009,Facilities Maintenance,Incumbent,Small business,Low,85.8,86.7,2.62,0,17.4,Watch,Recovery check
+SUP-076,Corporate Supplier 5,CAT-009,Facilities Maintenance,Regional specialist,Small business,Low,88.7,87.0,2.65,0,17.4,Meets SLA,Recovery check
+SUP-013,Technology Supplier 4,CAT-003,Signal and Communications,Incumbent,Non-diverse,Medium,88.7,88.6,2.75,0,17.0,Meets SLA,Recovery check
+SUP-109,Corporate Supplier 16,CAT-010,Professional Services,Incumbent,Small business,Medium,81.8,87.1,2.54,0,16.9,Watch,Recovery check
+SUP-113,Corporate Supplier 20,CAT-010,Professional Services,Regional specialist,Non-diverse,High,86.4,86.6,2.48,0,16.9,Meets SLA,Recovery check
+SUP-067,Technology Supplier 6,CAT-008,IT and Network Services,Distributor,Small business,Medium,86.2,86.5,2.43,0,16.8,Meets SLA,Recovery check
+SUP-003,Engineering Supplier 3,CAT-001,Rail and Track Materials,Incumbent,Diverse,Low,84.7,86.0,2.35,0,16.7,Watch,Recovery check
+SUP-066,Technology Supplier 5,CAT-008,IT and Network Services,Challenger,Non-diverse,Low,83.6,85.7,2.3,0,16.6,Watch,Recovery check
+SUP-031,Indirect Supplier 9,CAT-005,MRO Tools and Shop Supplies,Regional specialist,Not classified,Medium,86.1,87.0,2.45,0,16.5,Meets SLA,Recovery check
+SUP-035,Indirect Supplier 13,CAT-005,MRO Tools and Shop Supplies,Incumbent,Small business,Medium,87.5,85.8,2.25,0,16.4,Meets SLA,Recovery check
+SUP-038,Indirect Supplier 16,CAT-005,MRO Tools and Shop Supplies,Incumbent,Diverse,Medium,86.4,87.7,2.5,0,16.4,Meets SLA,Recovery check
+SUP-096,Corporate Supplier 3,CAT-010,Professional Services,Challenger,Small business,Low,84.7,85.9,2.27,0,16.4,Watch,Recovery check
+SUP-028,Indirect Supplier 6,CAT-005,MRO Tools and Shop Supplies,Incumbent,Diverse,Medium,89.8,86.3,2.28,0,16.2,Meets SLA,Recovery check
+SUP-045,Operations Supplier 5,CAT-006,Intermodal Terminal Services,Distributor,Small business,Medium,86.9,86.3,2.24,0,16.1,Meets SLA,Recovery check
+SUP-077,Corporate Supplier 6,CAT-009,Facilities Maintenance,Challenger,Small business,Low,90.1,89.6,2.67,0,16.1,Meets SLA,Recovery check
+SUP-012,Technology Supplier 3,CAT-003,Signal and Communications,Distributor,Non-diverse,High,85.0,85.5,2.13,0,16.0,Watch,Recovery check
+SUP-086,Corporate Supplier 15,CAT-009,Facilities Maintenance,Incumbent,Small business,Low,88.1,87.1,2.31,0,16.0,Meets SLA,Recovery check
+SUP-015,Technology Supplier 6,CAT-003,Signal and Communications,Distributor,Diverse,Low,92.4,87.3,2.33,0,15.9,Meets SLA,Recovery check
+SUP-105,Corporate Supplier 12,CAT-010,Professional Services,Distributor,Small business,Low,84.7,86.9,2.2,0,15.6,Watch,Recovery check
+SUP-026,Indirect Supplier 4,CAT-005,MRO Tools and Shop Supplies,Distributor,Not classified,Medium,90.9,88.7,2.42,0,15.5,Meets SLA,Recovery check
+SUP-060,Field Supplier 11,CAT-007,Engineering Contractors,Distributor,Not classified,Medium,85.8,87.6,2.23,0,15.4,Watch,Recovery check
+SUP-101,Corporate Supplier 8,CAT-010,Professional Services,Challenger,Not classified,Medium,89.9,88.6,2.38,0,15.4,Meets SLA,Recovery check
+SUP-117,Corporate Supplier 24,CAT-010,Professional Services,Challenger,Small business,High,86.7,87.6,2.24,0,15.4,Meets SLA,Recovery check
+SUP-091,Corporate Supplier 20,CAT-009,Facilities Maintenance,Challenger,Small business,Low,92.1,90.9,1.15,1,15.3,Meets SLA,Recovery check
+SUP-009,Mechanical Supplier 4,CAT-002,Locomotive Components,Incumbent,Not classified,Low,88.4,88.0,2.24,0,15.2,Meets SLA,Recovery check
+SUP-043,Operations Supplier 3,CAT-006,Intermodal Terminal Services,Incumbent,Non-diverse,Medium,84.8,89.1,2.39,0,15.2,Watch,Recovery check
+SUP-088,Corporate Supplier 17,CAT-009,Facilities Maintenance,Challenger,Diverse,High,87.2,88.6,2.24,0,14.9,Meets SLA,Standard scorecard
+SUP-099,Corporate Supplier 6,CAT-010,Professional Services,Distributor,Diverse,Low,87.4,88.7,2.26,0,14.9,Meets SLA,Standard scorecard
+SUP-034,Indirect Supplier 12,CAT-005,MRO Tools and Shop Supplies,Incumbent,Diverse,High,86.7,89.1,2.28,0,14.8,Meets SLA,Standard scorecard
+SUP-063,Technology Supplier 2,CAT-008,IT and Network Services,Incumbent,Not classified,Medium,81.3,89.3,2.29,0,14.7,Watch,Standard scorecard
+SUP-075,Corporate Supplier 4,CAT-009,Facilities Maintenance,Distributor,Not classified,Medium,87.8,89.5,2.3,0,14.7,Meets SLA,Standard scorecard
+SUP-082,Corporate Supplier 11,CAT-009,Facilities Maintenance,Regional specialist,Not classified,Low,89.8,88.4,2.12,0,14.5,Meets SLA,Standard scorecard
+SUP-098,Corporate Supplier 5,CAT-010,Professional Services,Distributor,Small business,Low,87.8,88.8,2.18,0,14.5,Meets SLA,Standard scorecard
+SUP-046,Operations Supplier 6,CAT-006,Intermodal Terminal Services,Challenger,Non-diverse,High,85.8,89.2,2.19,0,14.4,Watch,Standard scorecard
+SUP-080,Corporate Supplier 9,CAT-009,Facilities Maintenance,Distributor,Non-diverse,Low,86.6,90.5,2.38,0,14.4,Meets SLA,Standard scorecard
+SUP-083,Corporate Supplier 12,CAT-009,Facilities Maintenance,Distributor,Small business,Low,88.5,87.3,1.96,0,14.4,Meets SLA,Standard scorecard
+SUP-104,Corporate Supplier 11,CAT-010,Professional Services,Distributor,Diverse,Medium,90.1,89.1,2.18,0,14.4,Meets SLA,Standard scorecard
+SUP-116,Corporate Supplier 23,CAT-010,Professional Services,Distributor,Non-diverse,High,92.2,88.4,2.09,0,14.4,Meets SLA,Standard scorecard
+SUP-030,Indirect Supplier 8,CAT-005,MRO Tools and Shop Supplies,Incumbent,Not classified,Low,90.1,87.9,1.98,0,14.2,Meets SLA,Standard scorecard
+SUP-042,Operations Supplier 2,CAT-006,Intermodal Terminal Services,Challenger,Not classified,Low,87.2,89.8,2.23,0,14.2,Meets SLA,Standard scorecard
+SUP-069,Technology Supplier 8,CAT-008,IT and Network Services,Challenger,Non-diverse,Low,83.3,87.8,1.96,0,14.2,Watch,Standard scorecard
+SUP-084,Corporate Supplier 13,CAT-009,Facilities Maintenance,Incumbent,Non-diverse,High,89.7,89.5,2.19,0,14.2,Meets SLA,Standard scorecard
+SUP-033,Indirect Supplier 11,CAT-005,MRO Tools and Shop Supplies,Challenger,Non-diverse,High,89.2,89.4,2.15,0,14.1,Meets SLA,Standard scorecard
+SUP-053,Field Supplier 4,CAT-007,Engineering Contractors,Distributor,Diverse,Low,91.5,87.8,1.93,0,14.1,Meets SLA,Standard scorecard
+SUP-108,Corporate Supplier 15,CAT-010,Professional Services,Incumbent,Non-diverse,Low,90.6,89.2,2.12,0,14.1,Meets SLA,Standard scorecard
+SUP-051,Field Supplier 2,CAT-007,Engineering Contractors,Distributor,Not classified,Medium,96.7,92.0,0.95,1,14.0,Meets SLA,Standard scorecard
+SUP-093,Corporate Supplier 22,CAT-009,Facilities Maintenance,Challenger,Diverse,Medium,89.7,90.1,2.23,0,14.0,Meets SLA,Standard scorecard
+SUP-079,Corporate Supplier 8,CAT-009,Facilities Maintenance,Regional specialist,Diverse,Low,89.3,90.5,2.23,0,13.9,Meets SLA,Standard scorecard
+SUP-103,Corporate Supplier 10,CAT-010,Professional Services,Distributor,Diverse,Medium,88.7,88.6,1.99,0,13.9,Meets SLA,Standard scorecard
+SUP-017,Energy Supplier 2,CAT-004,Diesel Fuel and Lubricants,Challenger,Small business,Medium,90.4,90.4,2.19,0,13.8,Meets SLA,Standard scorecard
+SUP-110,Corporate Supplier 17,CAT-010,Professional Services,Distributor,Not classified,Medium,86.1,89.9,2.15,0,13.8,Meets SLA,Standard scorecard
+SUP-037,Indirect Supplier 15,CAT-005,MRO Tools and Shop Supplies,Regional specialist,Small business,Medium,88.7,89.7,2.08,0,13.7,Meets SLA,Standard scorecard
+SUP-057,Field Supplier 8,CAT-007,Engineering Contractors,Regional specialist,Non-diverse,Medium,91.3,90.1,2.14,0,13.7,Meets SLA,Standard scorecard
+SUP-107,Corporate Supplier 14,CAT-010,Professional Services,Challenger,Not classified,Low,87.9,89.0,2.0,0,13.7,Meets SLA,Standard scorecard
+SUP-059,Field Supplier 10,CAT-007,Engineering Contractors,Distributor,Small business,Medium,86.3,90.0,2.09,0,13.6,Meets SLA,Standard scorecard
+SUP-114,Corporate Supplier 21,CAT-010,Professional Services,Incumbent,Not classified,Medium,90.9,90.5,2.17,0,13.6,Meets SLA,Standard scorecard
+SUP-018,Energy Supplier 3,CAT-004,Diesel Fuel and Lubricants,Incumbent,Diverse,Medium,89.0,89.7,2.01,0,13.4,Meets SLA,Standard scorecard
+SUP-065,Technology Supplier 4,CAT-008,IT and Network Services,Incumbent,Small business,Low,85.6,87.1,1.68,0,13.4,Watch,Standard scorecard
+SUP-089,Corporate Supplier 18,CAT-009,Facilities Maintenance,Regional specialist,Small business,Low,86.9,88.9,1.89,0,13.3,Meets SLA,Standard scorecard
+SUP-106,Corporate Supplier 13,CAT-010,Professional Services,Distributor,Not classified,Low,89.4,89.5,1.94,0,13.2,Meets SLA,Standard scorecard
+SUP-049,Operations Supplier 9,CAT-006,Intermodal Terminal Services,Incumbent,Not classified,Low,90.5,91.4,2.16,0,13.1,Meets SLA,Standard scorecard
+SUP-070,Technology Supplier 9,CAT-008,IT and Network Services,Incumbent,Not classified,High,86.2,89.8,1.92,0,13.0,Meets SLA,Standard scorecard
+SUP-010,Technology Supplier 1,CAT-003,Signal and Communications,Distributor,Diverse,High,93.3,90.8,2.02,0,12.9,Meets SLA,Standard scorecard
+SUP-005,Engineering Supplier 5,CAT-001,Rail and Track Materials,Incumbent,Small business,Medium,90.9,88.9,1.73,0,12.7,Meets SLA,Standard scorecard
+SUP-041,Operations Supplier 1,CAT-006,Intermodal Terminal Services,Incumbent,Small business,High,90.4,89.2,1.76,0,12.7,Meets SLA,Standard scorecard
+SUP-074,Corporate Supplier 3,CAT-009,Facilities Maintenance,Challenger,Small business,Medium,88.3,89.4,1.78,0,12.6,Meets SLA,Standard scorecard
+SUP-085,Corporate Supplier 14,CAT-009,Facilities Maintenance,Regional specialist,Non-diverse,Low,89.4,89.0,1.72,0,12.6,Meets SLA,Standard scorecard
+SUP-044,Operations Supplier 4,CAT-006,Intermodal Terminal Services,Incumbent,Not classified,Low,87.4,88.5,1.63,0,12.5,Meets SLA,Standard scorecard
+SUP-078,Corporate Supplier 7,CAT-009,Facilities Maintenance,Distributor,Small business,High,92.6,90.3,1.76,0,12.1,Meets SLA,Standard scorecard
+SUP-087,Corporate Supplier 16,CAT-009,Facilities Maintenance,Regional specialist,Non-diverse,Low,90.8,89.5,1.64,0,12.0,Meets SLA,Standard scorecard
+SUP-025,Indirect Supplier 3,CAT-005,MRO Tools and Shop Supplies,Challenger,Not classified,Low,89.3,90.6,1.71,0,11.7,Meets SLA,Standard scorecard
+SUP-081,Corporate Supplier 10,CAT-009,Facilities Maintenance,Challenger,Diverse,Low,87.9,89.3,1.55,0,11.7,Meets SLA,Standard scorecard
+SUP-090,Corporate Supplier 19,CAT-009,Facilities Maintenance,Challenger,Non-diverse,Low,83.7,89.5,1.55,0,11.7,Watch,Standard scorecard
+SUP-111,Corporate Supplier 18,CAT-010,Professional Services,Regional specialist,Non-diverse,Low,88.1,88.6,1.43,0,11.6,Meets SLA,Standard scorecard
+SUP-014,Technology Supplier 5,CAT-003,Signal and Communications,Regional specialist,Not classified,Low,90.4,89.6,1.49,0,11.4,Meets SLA,Standard scorecard
+SUP-023,Indirect Supplier 1,CAT-005,MRO Tools and Shop Supplies,Distributor,Small business,Low,91.1,91.4,1.74,0,11.4,Meets SLA,Standard scorecard
+SUP-054,Field Supplier 5,CAT-007,Engineering Contractors,Regional specialist,Small business,High,87.2,90.2,1.56,0,11.4,Meets SLA,Standard scorecard
+SUP-061,Field Supplier 12,CAT-007,Engineering Contractors,Incumbent,Not classified,Medium,91.0,90.6,1.63,0,11.4,Meets SLA,Standard scorecard
+SUP-056,Field Supplier 7,CAT-007,Engineering Contractors,Incumbent,Non-diverse,Low,92.7,90.4,1.52,0,11.1,Meets SLA,Standard scorecard
+SUP-022,Energy Supplier 7,CAT-004,Diesel Fuel and Lubricants,Distributor,Diverse,Low,94.0,90.8,1.47,0,10.7,Meets SLA,Standard scorecard
+SUP-062,Technology Supplier 1,CAT-008,IT and Network Services,Incumbent,Diverse,Low,91.3,89.7,1.33,0,10.7,Meets SLA,Standard scorecard
+SUP-006,Mechanical Supplier 1,CAT-002,Locomotive Components,Distributor,Small business,Medium,88.4,88.8,1.19,0,10.6,Meets SLA,Standard scorecard
+SUP-011,Technology Supplier 2,CAT-003,Signal and Communications,Distributor,Diverse,Medium,94.1,91.9,1.6,0,10.6,Meets SLA,Standard scorecard
+SUP-039,Indirect Supplier 17,CAT-005,MRO Tools and Shop Supplies,Regional specialist,Diverse,Medium,88.0,91.5,1.55,0,10.6,Meets SLA,Standard scorecard
+SUP-007,Mechanical Supplier 2,CAT-002,Locomotive Components,Challenger,Diverse,High,90.9,90.2,1.35,0,10.5,Meets SLA,Standard scorecard
+SUP-100,Corporate Supplier 7,CAT-010,Professional Services,Regional specialist,Non-diverse,Medium,93.6,92.2,1.61,0,10.5,Meets SLA,Standard scorecard
+SUP-115,Corporate Supplier 22,CAT-010,Professional Services,Incumbent,Diverse,High,92.8,91.9,1.53,0,10.3,Meets SLA,Standard scorecard
+SUP-016,Energy Supplier 1,CAT-004,Diesel Fuel and Lubricants,Incumbent,Small business,Low,93.8,91.0,1.37,0,10.2,Meets SLA,Standard scorecard
+SUP-036,Indirect Supplier 14,CAT-005,MRO Tools and Shop Supplies,Challenger,Small business,High,90.5,92.0,1.51,0,10.2,Meets SLA,Standard scorecard
+SUP-002,Engineering Supplier 2,CAT-001,Rail and Track Materials,Incumbent,Small business,Medium,93.1,92.3,1.53,0,10.1,Meets SLA,Standard scorecard
+SUP-050,Field Supplier 1,CAT-007,Engineering Contractors,Distributor,Non-diverse,Low,86.4,91.3,1.33,0,9.9,Meets SLA,Standard scorecard
+SUP-024,Indirect Supplier 2,CAT-005,MRO Tools and Shop Supplies,Regional specialist,Non-diverse,High,92.8,90.3,1.18,0,9.7,Meets SLA,Standard scorecard
+SUP-071,Technology Supplier 10,CAT-008,IT and Network Services,Challenger,Not classified,Low,90.1,91.0,1.24,0,9.6,Meets SLA,Standard scorecard
+SUP-055,Field Supplier 6,CAT-007,Engineering Contractors,Regional specialist,Not classified,Medium,93.3,93.3,1.1,0,7.9,Meets SLA,Standard scorecard

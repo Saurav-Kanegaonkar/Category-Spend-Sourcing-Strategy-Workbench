@@ -6,49 +6,111 @@
   <title>Category Spend Sourcing Strategy Workbench</title>
   <link rel="stylesheet" href="src/styles.css">
 </head>
-<body style="--accent:#4f46e5;--bg:#f4f5ff">
-  <main class="shell">
-    <header class="hero">
+<body>
+  <main class="app-shell">
+    <header class="topbar">
       <div>
-        <p class="eyebrow">Workbench / category sourcing analytics, supplier performance, and total-cost-of-ownership modeling</p>
+        <p class="eyebrow">Category management operating packet</p>
         <h1>Category Spend Sourcing Strategy Workbench</h1>
       </div>
-      <aside>
-        <b>Purpose</b>
-        <span>Turn messy spend category-level signals into a ranked operating artifact with recommendations a stakeholder can act on.</span>
-      </aside>
+      <div class="run-card" aria-label="Data generation status">
+        <span>Model run</span>
+        <strong id="runDate">Loading</strong>
+      </div>
     </header>
-    <section class="metrics">
-      <article><span>Modeled rows</span><strong>6.0K+</strong><em>source-style</em></article>
-      <article><span>Ranked queue</span><strong>25</strong><em>spend categorys</em></article>
-      <article><span>Action pool</span><strong>220</strong><em>candidates</em></article>
-      <article><span>Review time</span><strong>-6 hrs</strong><em>weekly</em></article>
+
+    <section class="summary-grid" id="summaryGrid" aria-label="Portfolio summary metrics"></section>
+
+    <nav class="tabs" aria-label="Workbench surfaces">
+      <button class="tab is-active" data-surface="criticality" type="button">Spend Criticality</button>
+      <button class="tab" data-surface="sourcing" type="button">Sourcing Studio</button>
+      <button class="tab" data-surface="supplier" type="button">Supplier Monitor</button>
+    </nav>
+
+    <section class="surface is-active" id="criticality" aria-labelledby="criticalityTitle">
+      <div class="surface-heading">
+        <div>
+          <p class="eyebrow">Surface 01</p>
+          <h2 id="criticalityTitle">Spend criticality cockpit</h2>
+        </div>
+        <select id="tierFilter" aria-label="Filter category tier"></select>
+      </div>
+      <div class="layout-two">
+        <article class="panel priority-panel">
+          <div class="panel-title">
+            <h3>Category priority queue</h3>
+            <span id="queueCount"></span>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>Rank</th>
+                  <th>Category</th>
+                  <th>Score</th>
+                  <th>Leakage</th>
+                  <th>Savings</th>
+                  <th>Next move</th>
+                </tr>
+              </thead>
+              <tbody id="categoryRows"></tbody>
+            </table>
+          </div>
+        </article>
+        <aside class="panel detail-panel" id="categoryDetail"></aside>
+      </div>
+      <div class="panel">
+        <div class="panel-title">
+          <h3>Contract compliance by category</h3>
+          <span>off-contract, expired agreement, and catalog mismatch</span>
+        </div>
+        <div class="bar-stack" id="complianceBars"></div>
+      </div>
     </section>
-    <section class="main-grid">
-      <article class="panel lead">
-        <p class="eyebrow">Semantic model</p>
-        <h2>Priority queue</h2>
-        <table>
-          <thead><tr><th>spend category</th><th>Signal</th><th>Risk</th><th>Next move</th></tr></thead>
-          <tbody>
-            <tr><td>Segment A</td><td>Source validation</td><td>High</td><td>Escalate with source check</td></tr>
-            <tr><td>Segment B</td><td>Self-service readiness</td><td>Medium</td><td>Test with clear owner</td></tr>
-            <tr><td>Segment C</td><td>Quality gap</td><td>Watch</td><td>Document metric definition</td></tr>
-          </tbody>
-        </table>
-      </article>
-      <article class="panel narrative">
-        <p class="eyebrow">What the analysis says</p>
-        <h2>Recommendations over screenshots</h2>
-        <p>The artifact is built around decisions, not dashboard decoration: each source table feeds a ranked queue, and each queue item resolves into a recommendation.</p>
-        <p>The strongest opportunities appear where performance upside, measurement quality, and operating readiness overlap.</p>
-      </article>
+
+    <section class="surface" id="sourcing" aria-labelledby="sourcingTitle">
+      <div class="surface-heading">
+        <div>
+          <p class="eyebrow">Surface 02</p>
+          <h2 id="sourcingTitle">Sourcing evaluation and negotiation studio</h2>
+        </div>
+      </div>
+      <div class="scenario-grid" id="sourcingCards"></div>
+      <div class="panel">
+        <div class="panel-title">
+          <h3>TCO decision logic</h3>
+          <span>weighted evaluation, transition cost, and risk penalty</span>
+        </div>
+        <div class="matrix" id="tcoMatrix"></div>
+      </div>
     </section>
-    <section class="recommendations">
-      <article><b>01</b><h3>Validate</h3><p>Confirm source definitions before scaling the insight into recurring reporting.</p></article>
-      <article><b>02</b><h3>Prioritize</h3><p>Move the highest-value spend category segment into the next operating review.</p></article>
-      <article><b>03</b><h3>Automate</h3><p>Convert the queue into a stakeholder-ready digest for repeated decisions.</p></article>
+
+    <section class="surface" id="supplier" aria-labelledby="supplierTitle">
+      <div class="surface-heading">
+        <div>
+          <p class="eyebrow">Surface 03</p>
+          <h2 id="supplierTitle">Supplier performance and compliance monitor</h2>
+        </div>
+      </div>
+      <div class="layout-two supplier-layout">
+        <article class="panel">
+          <div class="panel-title">
+            <h3>Supplier risk queue</h3>
+            <span>trailing six-month scorecard</span>
+          </div>
+          <div class="supplier-list" id="supplierList"></div>
+        </article>
+        <aside class="panel">
+          <div class="panel-title">
+            <h3>Action queue</h3>
+            <span>stakeholder-ready follow-up</span>
+          </div>
+          <div class="action-list" id="actionList"></div>
+        </aside>
+      </div>
     </section>
   </main>
+
+  <script src="src/app.js"></script>
 </body>
 </html>

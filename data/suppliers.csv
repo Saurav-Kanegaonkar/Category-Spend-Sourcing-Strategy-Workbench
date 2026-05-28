@@ -1,0 +1,120 @@
+supplier_id,supplier_name,category_id,category_name,supplier_type,diversity_status,rail_qualified,financial_risk,capacity_score,safety_score,innovation_score,service_region,status
+SUP-001,Engineering Supplier 1,CAT-001,Rail and Track Materials,Regional specialist,Diverse,Yes,Medium,64.6,77.6,71.6,Gulf,Preferred
+SUP-002,Engineering Supplier 2,CAT-001,Rail and Track Materials,Incumbent,Small business,Yes,Medium,98,90.4,87.4,Systemwide,Preferred
+SUP-003,Engineering Supplier 3,CAT-001,Rail and Track Materials,Incumbent,Diverse,Yes,Low,63.7,61.8,50.3,Mid-Atlantic,Watch
+SUP-004,Engineering Supplier 4,CAT-001,Rail and Track Materials,Regional specialist,Not classified,Yes,Low,58.6,67.2,65.7,Mid-Atlantic,Development
+SUP-005,Engineering Supplier 5,CAT-001,Rail and Track Materials,Incumbent,Small business,Yes,Medium,82.9,79.0,90.0,Gulf,Approved
+SUP-006,Mechanical Supplier 1,CAT-002,Locomotive Components,Distributor,Small business,Yes,Medium,71.1,70.0,60.7,Gulf,Preferred
+SUP-007,Mechanical Supplier 2,CAT-002,Locomotive Components,Challenger,Diverse,Yes,High,90.7,89.0,85.5,Southeast,Preferred
+SUP-008,Mechanical Supplier 3,CAT-002,Locomotive Components,Distributor,Diverse,Conditional,Low,58.4,55.5,68.1,Midwest,Watch
+SUP-009,Mechanical Supplier 4,CAT-002,Locomotive Components,Incumbent,Not classified,Yes,Low,82.9,78.8,79.3,Midwest,Development
+SUP-010,Technology Supplier 1,CAT-003,Signal and Communications,Distributor,Diverse,Yes,High,80.9,81.4,80.2,Mid-Atlantic,Preferred
+SUP-011,Technology Supplier 2,CAT-003,Signal and Communications,Distributor,Diverse,Yes,Medium,86.8,93.8,94.2,Gulf,Preferred
+SUP-012,Technology Supplier 3,CAT-003,Signal and Communications,Distributor,Non-diverse,Yes,High,66.4,73.0,67.1,Midwest,Development
+SUP-013,Technology Supplier 4,CAT-003,Signal and Communications,Incumbent,Non-diverse,Yes,Medium,76.9,81.5,80.7,Systemwide,Approved
+SUP-014,Technology Supplier 5,CAT-003,Signal and Communications,Regional specialist,Not classified,Yes,Low,89.2,92.0,66.2,Gulf,Watch
+SUP-015,Technology Supplier 6,CAT-003,Signal and Communications,Distributor,Diverse,Yes,Low,66.5,73.0,69.6,Systemwide,Development
+SUP-016,Energy Supplier 1,CAT-004,Diesel Fuel and Lubricants,Incumbent,Small business,Yes,Low,81.1,73.2,84.1,Systemwide,Preferred
+SUP-017,Energy Supplier 2,CAT-004,Diesel Fuel and Lubricants,Challenger,Small business,Yes,Medium,76.6,82.4,74.7,Gulf,Preferred
+SUP-018,Energy Supplier 3,CAT-004,Diesel Fuel and Lubricants,Incumbent,Diverse,Yes,Medium,85.7,93.9,93.5,Southeast,Approved
+SUP-019,Energy Supplier 4,CAT-004,Diesel Fuel and Lubricants,Incumbent,Small business,Yes,Low,82.5,72.8,75.5,Gulf,Approved
+SUP-020,Energy Supplier 5,CAT-004,Diesel Fuel and Lubricants,Challenger,Diverse,Yes,Medium,58.3,67.1,68.2,Mid-Atlantic,Approved
+SUP-021,Energy Supplier 6,CAT-004,Diesel Fuel and Lubricants,Regional specialist,Not classified,Conditional,High,59.9,55.6,40.9,Southeast,Approved
+SUP-022,Energy Supplier 7,CAT-004,Diesel Fuel and Lubricants,Distributor,Diverse,Yes,Low,86.3,82.1,80.1,Southeast,Approved
+SUP-023,Indirect Supplier 1,CAT-005,MRO Tools and Shop Supplies,Distributor,Small business,Conditional,Low,89.1,89.3,69.1,Systemwide,Preferred
+SUP-024,Indirect Supplier 2,CAT-005,MRO Tools and Shop Supplies,Regional specialist,Non-diverse,Yes,High,84.3,86.8,83.9,Mid-Atlantic,Preferred
+SUP-025,Indirect Supplier 3,CAT-005,MRO Tools and Shop Supplies,Challenger,Not classified,Yes,Low,85.8,78.6,76.5,Gulf,Approved
+SUP-026,Indirect Supplier 4,CAT-005,MRO Tools and Shop Supplies,Distributor,Not classified,Yes,Medium,82.9,90.5,70.1,Mid-Atlantic,Approved
+SUP-027,Indirect Supplier 5,CAT-005,MRO Tools and Shop Supplies,Distributor,Small business,Yes,High,80.8,71.1,76.0,Southeast,Development
+SUP-028,Indirect Supplier 6,CAT-005,MRO Tools and Shop Supplies,Incumbent,Diverse,Yes,Medium,58.4,63.8,51.2,Gulf,Watch
+SUP-029,Indirect Supplier 7,CAT-005,MRO Tools and Shop Supplies,Incumbent,Non-diverse,Yes,Medium,78.7,76.7,96,Southeast,Development
+SUP-030,Indirect Supplier 8,CAT-005,MRO Tools and Shop Supplies,Incumbent,Not classified,Yes,Low,82.3,90.7,64.3,Midwest,Development
+SUP-031,Indirect Supplier 9,CAT-005,MRO Tools and Shop Supplies,Regional specialist,Not classified,Yes,Medium,74.1,76.6,67.0,Midwest,Approved
+SUP-032,Indirect Supplier 10,CAT-005,MRO Tools and Shop Supplies,Challenger,Small business,Conditional,Medium,70.1,72.2,85.2,Systemwide,Approved
+SUP-033,Indirect Supplier 11,CAT-005,MRO Tools and Shop Supplies,Challenger,Non-diverse,Conditional,High,78.7,74.3,81.3,Southeast,Development
+SUP-034,Indirect Supplier 12,CAT-005,MRO Tools and Shop Supplies,Incumbent,Diverse,Yes,High,78.4,65.6,67.4,Midwest,Development
+SUP-035,Indirect Supplier 13,CAT-005,MRO Tools and Shop Supplies,Incumbent,Small business,Yes,Medium,67.2,57.2,46.4,Systemwide,Watch
+SUP-036,Indirect Supplier 14,CAT-005,MRO Tools and Shop Supplies,Challenger,Small business,Conditional,High,92.0,90.6,96,Systemwide,Approved
+SUP-037,Indirect Supplier 15,CAT-005,MRO Tools and Shop Supplies,Regional specialist,Small business,Conditional,Medium,80.8,61.3,78.2,Southeast,Approved
+SUP-038,Indirect Supplier 16,CAT-005,MRO Tools and Shop Supplies,Incumbent,Diverse,Yes,Medium,67.9,66.6,62.5,Midwest,Development
+SUP-039,Indirect Supplier 17,CAT-005,MRO Tools and Shop Supplies,Regional specialist,Diverse,Conditional,Medium,98,96.0,96,Midwest,Approved
+SUP-040,Indirect Supplier 18,CAT-005,MRO Tools and Shop Supplies,Incumbent,Not classified,Conditional,High,78.2,78.4,66.4,Midwest,Approved
+SUP-041,Operations Supplier 1,CAT-006,Intermodal Terminal Services,Incumbent,Small business,Yes,High,80.0,89.4,85.7,Systemwide,Preferred
+SUP-042,Operations Supplier 2,CAT-006,Intermodal Terminal Services,Challenger,Not classified,Yes,Low,93.6,82.4,82.8,Midwest,Preferred
+SUP-043,Operations Supplier 3,CAT-006,Intermodal Terminal Services,Incumbent,Non-diverse,Yes,Medium,87.2,91.2,84.2,Systemwide,Development
+SUP-044,Operations Supplier 4,CAT-006,Intermodal Terminal Services,Incumbent,Not classified,Yes,Low,74.9,75.2,68.1,Mid-Atlantic,Approved
+SUP-045,Operations Supplier 5,CAT-006,Intermodal Terminal Services,Distributor,Small business,Conditional,Medium,72.0,75.0,78.2,Midwest,Development
+SUP-046,Operations Supplier 6,CAT-006,Intermodal Terminal Services,Challenger,Non-diverse,Yes,High,68.1,80.8,91.3,Mid-Atlantic,Approved
+SUP-047,Operations Supplier 7,CAT-006,Intermodal Terminal Services,Regional specialist,Not classified,Yes,Low,67.0,77.4,72.9,Mid-Atlantic,Watch
+SUP-048,Operations Supplier 8,CAT-006,Intermodal Terminal Services,Incumbent,Diverse,Yes,Medium,64.7,76.9,73.2,Midwest,Development
+SUP-049,Operations Supplier 9,CAT-006,Intermodal Terminal Services,Incumbent,Not classified,Yes,Low,97.2,99,89.6,Gulf,Approved
+SUP-050,Field Supplier 1,CAT-007,Engineering Contractors,Distributor,Non-diverse,Conditional,Low,90.8,94.3,95.3,Mid-Atlantic,Preferred
+SUP-051,Field Supplier 2,CAT-007,Engineering Contractors,Distributor,Not classified,Yes,Medium,90.8,87.2,81.9,Gulf,Preferred
+SUP-052,Field Supplier 3,CAT-007,Engineering Contractors,Distributor,Non-diverse,Yes,Low,71.3,87.1,93.4,Systemwide,Approved
+SUP-053,Field Supplier 4,CAT-007,Engineering Contractors,Distributor,Diverse,Yes,Low,76.2,70.8,86.8,Mid-Atlantic,Approved
+SUP-054,Field Supplier 5,CAT-007,Engineering Contractors,Regional specialist,Small business,Yes,High,96.3,84.0,79.2,Systemwide,Approved
+SUP-055,Field Supplier 6,CAT-007,Engineering Contractors,Regional specialist,Not classified,Yes,Medium,98,95.2,94.8,Mid-Atlantic,Watch
+SUP-056,Field Supplier 7,CAT-007,Engineering Contractors,Incumbent,Non-diverse,Yes,Low,88.2,90.5,83.4,Midwest,Approved
+SUP-057,Field Supplier 8,CAT-007,Engineering Contractors,Regional specialist,Non-diverse,Conditional,Medium,84.2,83.8,62.4,Mid-Atlantic,Approved
+SUP-058,Field Supplier 9,CAT-007,Engineering Contractors,Distributor,Small business,Yes,Low,80.5,89.6,68.4,Gulf,Approved
+SUP-059,Field Supplier 10,CAT-007,Engineering Contractors,Distributor,Small business,Yes,Medium,82.3,77.4,79.1,Gulf,Development
+SUP-060,Field Supplier 11,CAT-007,Engineering Contractors,Distributor,Not classified,Yes,Medium,81.6,83.4,70.8,Midwest,Approved
+SUP-061,Field Supplier 12,CAT-007,Engineering Contractors,Incumbent,Not classified,Yes,Medium,94.7,89.7,91.8,Southeast,Development
+SUP-062,Technology Supplier 1,CAT-008,IT and Network Services,Incumbent,Diverse,Yes,Low,87.1,87.4,85.5,Systemwide,Preferred
+SUP-063,Technology Supplier 2,CAT-008,IT and Network Services,Incumbent,Not classified,Yes,Medium,80.9,83.8,72.4,Mid-Atlantic,Preferred
+SUP-064,Technology Supplier 3,CAT-008,IT and Network Services,Regional specialist,Non-diverse,Conditional,Low,67.4,67.7,73.1,Midwest,Development
+SUP-065,Technology Supplier 4,CAT-008,IT and Network Services,Incumbent,Small business,Yes,Low,77.3,91.1,73.5,Gulf,Approved
+SUP-066,Technology Supplier 5,CAT-008,IT and Network Services,Challenger,Non-diverse,Yes,Low,68.5,68.4,72.9,Gulf,Approved
+SUP-067,Technology Supplier 6,CAT-008,IT and Network Services,Distributor,Small business,Yes,Medium,66.8,73.2,60.4,Southeast,Development
+SUP-068,Technology Supplier 7,CAT-008,IT and Network Services,Regional specialist,Not classified,Yes,Low,76.1,70.9,67.9,Gulf,Approved
+SUP-069,Technology Supplier 8,CAT-008,IT and Network Services,Challenger,Non-diverse,Yes,Low,69.7,64.8,70.9,Southeast,Approved
+SUP-070,Technology Supplier 9,CAT-008,IT and Network Services,Incumbent,Not classified,Yes,High,84.8,70.9,61.5,Midwest,Approved
+SUP-071,Technology Supplier 10,CAT-008,IT and Network Services,Challenger,Not classified,Yes,Low,88.0,93.1,83.9,Southeast,Development
+SUP-072,Corporate Supplier 1,CAT-009,Facilities Maintenance,Challenger,Not classified,Yes,Medium,74.9,83.2,67.6,Midwest,Preferred
+SUP-073,Corporate Supplier 2,CAT-009,Facilities Maintenance,Incumbent,Small business,Yes,Low,69.7,74.7,79.7,Midwest,Preferred
+SUP-074,Corporate Supplier 3,CAT-009,Facilities Maintenance,Challenger,Small business,Yes,Medium,71.7,68.0,68.6,Southeast,Approved
+SUP-075,Corporate Supplier 4,CAT-009,Facilities Maintenance,Distributor,Not classified,Conditional,Medium,78.4,99,83.5,Mid-Atlantic,Approved
+SUP-076,Corporate Supplier 5,CAT-009,Facilities Maintenance,Regional specialist,Small business,Yes,Low,72.4,78.1,61.9,Southeast,Development
+SUP-077,Corporate Supplier 6,CAT-009,Facilities Maintenance,Challenger,Small business,Yes,Low,69.6,67.2,67.8,Gulf,Approved
+SUP-078,Corporate Supplier 7,CAT-009,Facilities Maintenance,Distributor,Small business,Yes,High,82.1,86.6,75.8,Southeast,Approved
+SUP-079,Corporate Supplier 8,CAT-009,Facilities Maintenance,Regional specialist,Diverse,Yes,Low,81.9,78.6,78.7,Gulf,Approved
+SUP-080,Corporate Supplier 9,CAT-009,Facilities Maintenance,Distributor,Non-diverse,Yes,Low,91.5,86.6,81.2,Southeast,Watch
+SUP-081,Corporate Supplier 10,CAT-009,Facilities Maintenance,Challenger,Diverse,Yes,Low,81.7,79.2,76.1,Gulf,Watch
+SUP-082,Corporate Supplier 11,CAT-009,Facilities Maintenance,Regional specialist,Not classified,Conditional,Low,78.8,80.1,76.0,Midwest,Approved
+SUP-083,Corporate Supplier 12,CAT-009,Facilities Maintenance,Distributor,Small business,Yes,Low,74.6,63.4,73.3,Midwest,Approved
+SUP-084,Corporate Supplier 13,CAT-009,Facilities Maintenance,Incumbent,Non-diverse,Yes,High,79.9,76.8,75.2,Systemwide,Watch
+SUP-085,Corporate Supplier 14,CAT-009,Facilities Maintenance,Regional specialist,Non-diverse,Yes,Low,87.3,85.2,74.2,Gulf,Approved
+SUP-086,Corporate Supplier 15,CAT-009,Facilities Maintenance,Incumbent,Small business,Yes,Low,69.0,71.6,63.1,Systemwide,Development
+SUP-087,Corporate Supplier 16,CAT-009,Facilities Maintenance,Regional specialist,Non-diverse,Yes,Low,90.4,85.3,82.7,Midwest,Development
+SUP-088,Corporate Supplier 17,CAT-009,Facilities Maintenance,Challenger,Diverse,Conditional,High,86.5,82.1,69.9,Mid-Atlantic,Watch
+SUP-089,Corporate Supplier 18,CAT-009,Facilities Maintenance,Regional specialist,Small business,Conditional,Low,85.5,74.9,77.5,Systemwide,Approved
+SUP-090,Corporate Supplier 19,CAT-009,Facilities Maintenance,Challenger,Non-diverse,Conditional,Low,90.4,87.5,96,Southeast,Watch
+SUP-091,Corporate Supplier 20,CAT-009,Facilities Maintenance,Challenger,Small business,Yes,Low,92.9,97.4,96,Systemwide,Approved
+SUP-092,Corporate Supplier 21,CAT-009,Facilities Maintenance,Distributor,Diverse,Yes,Medium,55.5,58.7,62.3,Midwest,Development
+SUP-093,Corporate Supplier 22,CAT-009,Facilities Maintenance,Challenger,Diverse,Yes,Medium,86.6,99,94.2,Mid-Atlantic,Watch
+SUP-094,Corporate Supplier 1,CAT-010,Professional Services,Incumbent,Diverse,Conditional,Low,72.1,76.1,79.5,Systemwide,Preferred
+SUP-095,Corporate Supplier 2,CAT-010,Professional Services,Regional specialist,Small business,Yes,High,67.8,68.6,66.7,Mid-Atlantic,Preferred
+SUP-096,Corporate Supplier 3,CAT-010,Professional Services,Challenger,Small business,Yes,Low,63.8,69.9,71.7,Midwest,Approved
+SUP-097,Corporate Supplier 4,CAT-010,Professional Services,Regional specialist,Diverse,Yes,High,71.0,72.6,67.7,Gulf,Development
+SUP-098,Corporate Supplier 5,CAT-010,Professional Services,Distributor,Small business,Yes,Low,78.1,81.2,81.4,Systemwide,Watch
+SUP-099,Corporate Supplier 6,CAT-010,Professional Services,Distributor,Diverse,Yes,Low,78.7,78.9,87.6,Midwest,Development
+SUP-100,Corporate Supplier 7,CAT-010,Professional Services,Regional specialist,Non-diverse,Yes,Medium,95.4,94.7,90.1,Southeast,Approved
+SUP-101,Corporate Supplier 8,CAT-010,Professional Services,Challenger,Not classified,Yes,Medium,84.7,97.6,85.1,Southeast,Approved
+SUP-102,Corporate Supplier 9,CAT-010,Professional Services,Challenger,Non-diverse,Yes,Medium,71.3,81.6,67.0,Midwest,Watch
+SUP-103,Corporate Supplier 10,CAT-010,Professional Services,Distributor,Diverse,Yes,Medium,75.5,79.4,76.3,Gulf,Development
+SUP-104,Corporate Supplier 11,CAT-010,Professional Services,Distributor,Diverse,Yes,Medium,86.6,84.7,63.1,Mid-Atlantic,Approved
+SUP-105,Corporate Supplier 12,CAT-010,Professional Services,Distributor,Small business,Yes,Low,75.2,76.7,70.2,Systemwide,Watch
+SUP-106,Corporate Supplier 13,CAT-010,Professional Services,Distributor,Not classified,Yes,Low,85.4,93.3,89.3,Southeast,Development
+SUP-107,Corporate Supplier 14,CAT-010,Professional Services,Challenger,Not classified,Yes,Low,82.4,84.2,80.0,Gulf,Watch
+SUP-108,Corporate Supplier 15,CAT-010,Professional Services,Incumbent,Non-diverse,Yes,Low,84.2,80.0,74.2,Southeast,Approved
+SUP-109,Corporate Supplier 16,CAT-010,Professional Services,Incumbent,Small business,Yes,Medium,83.0,76.6,71.2,Gulf,Watch
+SUP-110,Corporate Supplier 17,CAT-010,Professional Services,Distributor,Not classified,Yes,Medium,91.8,83.0,96,Midwest,Development
+SUP-111,Corporate Supplier 18,CAT-010,Professional Services,Regional specialist,Non-diverse,Yes,Low,84.4,90.0,87.8,Midwest,Approved
+SUP-112,Corporate Supplier 19,CAT-010,Professional Services,Distributor,Diverse,Yes,Low,63.6,73.6,86.0,Gulf,Watch
+SUP-113,Corporate Supplier 20,CAT-010,Professional Services,Regional specialist,Non-diverse,Yes,High,71.0,80.9,64.8,Southeast,Watch
+SUP-114,Corporate Supplier 21,CAT-010,Professional Services,Incumbent,Not classified,Yes,Medium,92.8,99,90.0,Gulf,Approved
+SUP-115,Corporate Supplier 22,CAT-010,Professional Services,Incumbent,Diverse,Yes,High,98,99,96,Southeast,Development
+SUP-116,Corporate Supplier 23,CAT-010,Professional Services,Distributor,Non-diverse,Yes,High,79.2,77.3,66.1,Gulf,Watch
+SUP-117,Corporate Supplier 24,CAT-010,Professional Services,Challenger,Small business,Yes,High,77.9,77.1,71.7,Gulf,Development
+SUP-118,Corporate Supplier 25,CAT-010,Professional Services,Distributor,Not classified,Yes,Low,80.8,93.9,88.8,Midwest,Approved
+SUP-119,Corporate Supplier 26,CAT-010,Professional Services,Incumbent,Small business,Yes,Low,73.4,63.8,86.4,Mid-Atlantic,Development
